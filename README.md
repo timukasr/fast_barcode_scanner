@@ -1,5 +1,7 @@
 # Flutter Barcode Scanner Plugin
 
+**Fixes in this fork:** updates com.google.mlkit:barcode-scanning from 17.0.0 to 17.0.2. Fixes related Barcode imports.
+
 ## Packages
 
 ### fast_barcode_scanner:

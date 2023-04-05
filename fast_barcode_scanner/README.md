@@ -1,5 +1,7 @@
 # fast_barcode_scanner
 
+**Fixes in this fork:** updates com.google.mlkit:barcode-scanning from 17.0.0 to 17.0.2. Fixes related Barcode imports.
+
 [![pub package](https://img.shields.io/pub/v/fast_barcode_scanner)](https://pub.dev/packages/fast_barcode_scanner)
 
 A fast barcode scanner using **MLKit** (and **CameraX**) on Android and **AVFoundation** on iOS. This package leaves the UI up to the user, but rather gives an access to a camera preview.
