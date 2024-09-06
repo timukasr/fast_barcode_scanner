@@ -1,6 +1,9 @@
 # fast_barcode_scanner
 
-**Fixes in this fork:** updates com.google.mlkit:barcode-scanning from 17.0.0 to 17.0.2. Fixes related Barcode imports.
+**Fixes in this fork:**
+
+* updates com.google.mlkit:barcode-scanning from 17.0.0 to 17.0.2. Fixes related Barcode imports.
+* added non-null assertion
 
 [![pub package](https://img.shields.io/pub/v/fast_barcode_scanner)](https://pub.dev/packages/fast_barcode_scanner)
 
